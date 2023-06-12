@@ -1345,11 +1345,11 @@ highlight! link FocusedSymbol NormalFloat
 " syn_end }}}
 " syn_begin: aerial {{{
 " https://github.com/stevearc/aerial.nvim
-highlight! link AerialLine CursorLine
-highlight! link AerialGuide LineNr
-for kind in g:sonokai_lsp_kind_color
-  execute "highlight! link Aerial" . kind[0] . "Icon " . kind[1]
-endfor
+" highlight! link AerialLine CursorLine
+" highlight! link AerialGuide LineNr
+" for kind in g:sonokai_lsp_kind_color
+"   execute "highlight! link Aerial" . kind[0] . "Icon " . kind[1]
+" endfor
 " syn_end }}}
 " syn_begin: nerdtree {{{
 " https://github.com/preservim/nerdtree
