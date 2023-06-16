@@ -1341,7 +1341,7 @@ highlight! link VistaPrivate Red
 " syn_end }}}
 " syn_begin: Outline {{{
 " https://github.com/simrat39/symbols-outline.nvim
-highlight! link FocusedSymbol NormalFloat
+"highlight! link FocusedSymbol NormalFloat
 " syn_end }}}
 " syn_begin: aerial {{{
 " https://github.com/stevearc/aerial.nvim
