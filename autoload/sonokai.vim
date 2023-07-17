@@ -57,9 +57,9 @@ function! sonokai#get_palette(style, colors_override) "{{{
           \ }
   elseif a:style ==# 'shusia'
     let palette = {
-          \ 'black':      ['#1a181a',   '232'],
+          \ 'black':      ['#181818',   '232'],
           \ 'bg_dim':     ['#211f21',   '232'],
-          \ 'bg0':        ['#2d2a2e',   '235'],
+          \ 'bg0':        ['#1f1f1f',   '235'],
           \ 'bg1':        ['#37343a',   '236'],
           \ 'bg2':        ['#3b383e',   '236'],
           \ 'bg3':        ['#423f46',   '237'],
